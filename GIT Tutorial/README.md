@@ -25,3 +25,4 @@
   - [Git Cheat Sheet 1](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   - [Git Cheat Sheet 2](https://education.github.com/git-cheat-sheet-education.pdf)
   - [Advanced Git Tips](https://opensource.com/article/20/10/advanced-git-tips)
+  - [Writing a good commit message](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
