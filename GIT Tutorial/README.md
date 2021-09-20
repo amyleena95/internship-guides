@@ -27,3 +27,4 @@
   - [Git Cheat Sheet 2](https://education.github.com/git-cheat-sheet-education.pdf)
   - [Advanced Git Tips](https://opensource.com/article/20/10/advanced-git-tips)
   - [Writing a good commit message](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+  - [Writing a good commit message 2](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
