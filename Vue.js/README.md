@@ -1,7 +1,8 @@
 #Useful Links
 
 - Vue.JS [Landing Page](https://vuejs.org/)
-- Vue.JS [Version 3](https://v3.vuejs.org/guide) documentaion
+- Vue.JS [Version 3](https://v3.vuejs.org/guide) documentation
+- Vue 3 [components](https://v3.vuejs.org/guide/component-basics.html)
 - Youtube [tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) playlist for Vue 3
 - Youtube Vue 3 free [course](https://www.youtube.com/watch?v=e-E0UB-YDRk)
 
