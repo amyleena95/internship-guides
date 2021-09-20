@@ -17,6 +17,7 @@
 # Important notes
   - Always git pull the main branch before you start working on a new issue. To update your local main branch to the latest code. This is done to avoid conflicts.
   - Always commit any significant changes. Even if your issue is not done yet.
+  - Commit message should complete 'if applied, this commit will'. Eg: If applied, this commit will add new feature page. So the commit message should be 'add new feature page'. ** git commit -m "add new feature page #issueNum" **
   - Always link you commit to issue number. To make issue tracking easier.
  
 ## Useful Link
