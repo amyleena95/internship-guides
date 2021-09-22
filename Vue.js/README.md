@@ -10,6 +10,7 @@
 - [Resources](https://madewithvuejs.com/blog/learn-vue-3-best-resources) for Vue 3
 - [Conference talk](https://www.youtube.com/watch?v=eQpVcZa8dVQ)
 - [Tutorial](https://www.techiediaries.com/vue-3-tutorial/) with example
+- [Vue 3 UI Component Library](https://dev.to/olivia/vue-3-ui-component-library-for-2021-4nfa)
 
 The guides will have every documentation needed to help you develop the screens you've been assigned to.
 
