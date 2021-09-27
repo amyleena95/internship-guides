@@ -11,6 +11,7 @@
 - [Conference talk](https://www.youtube.com/watch?v=eQpVcZa8dVQ)
 - [Tutorial](https://www.techiediaries.com/vue-3-tutorial/) with example
 - [Vue 3 UI Component Library](https://dev.to/olivia/vue-3-ui-component-library-for-2021-4nfa)
+- [How to use Lifecycle Hooks in Vue 3](https://learnvue.co/2020/12/how-to-use-lifecycle-hooks-in-vue3/)
 
 The guides will have every documentation needed to help you develop the screens you've been assigned to.
 
