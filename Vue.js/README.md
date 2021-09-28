@@ -5,6 +5,7 @@
 - Vue 3 [components](https://v3.vuejs.org/guide/component-basics.html)
 - Youtube [tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) playlist for Vue 3
 - Youtube Vue 3 free [course](https://www.youtube.com/watch?v=e-E0UB-YDRk)
+- Vue Master [Beginner's Path - Free](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 
 ## Good reads
 - [Resources](https://madewithvuejs.com/blog/learn-vue-3-best-resources) for Vue 3
