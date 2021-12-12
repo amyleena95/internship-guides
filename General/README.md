@@ -7,4 +7,4 @@
 - [Superset Apache](https://superset.apache.org/)
 ## Videos
 - [What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
-- 
+- [AWS Certification Preparation](https://www.youtube.com/watch?v=SOTamWNgDKc)
