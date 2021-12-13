@@ -5,4 +5,10 @@
 - [Best web dev programming practices](https://dev.to/ashok83/9-web-development-best-practices-for-2021-31o1)
 ## Videos
 - [What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
-- 
+- [AWS Certification Preparation](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [REMIX for Javascript](https://www.youtube.com/watch?v=r4B69HAOXnA)
+- [Understanding Active Directory and Group Policy](https://www.youtube.com/watch?v=Q4I2lKHboDw)
+## Technology and Tools to Discover
+- [Expross for Javascript](https://github.com/mauro-balades/expross)
+- [log4j](https://crawshaw.io/blog/log4j)
+- [Superset Apache](https://superset.apache.org/)
