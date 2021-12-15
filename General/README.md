@@ -4,6 +4,7 @@
 - [How to be a good programmer](https://newrelic.com/blog/nerd-life/8-ways-become-a-better-coder)
 - [Best web dev programming practices](https://dev.to/ashok83/9-web-development-best-practices-for-2021-31o1)
 - [Tuning a Max Connections in Postgresql](https://www.cybertec-postgresql.com/en/tuning-max_connections-in-postgresql/)
+- [Handling CORS in Nginx](https://blog.alwoke.com/2019/06/how-to-handle-cors-options-request-with.html)
 ## Videos
 - [What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [AWS Certification Preparation](https://www.youtube.com/watch?v=SOTamWNgDKc)
