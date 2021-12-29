@@ -1,4 +1,6 @@
 # ARRAY
+## JavaScript
+- [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 ## Basic Array
 - [Manipulating Basic Array](https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/)
 - [Map Method in Array](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
