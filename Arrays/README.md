@@ -1,5 +1,6 @@
 # ARRAY
 ## JavaScript
+- [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 ## Basic Array
 - [Manipulating Basic Array](https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/)
