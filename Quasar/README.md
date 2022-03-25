@@ -13,5 +13,5 @@
 ## Support Channels
 - [Hangouts](https://forum.quasar-framework.org/category/12/hangout)
 - [Useful Tips from other Developers](https://forum.quasar-framework.org/category/14/useful-tips-new)
-- 
+- [Reddit](https://www.reddit.com/r/quasarframework/) Thread
 
