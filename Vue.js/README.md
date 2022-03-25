@@ -16,3 +16,7 @@
 
 The guides will have every documentation needed to help you develop the screens you've been assigned to.
 
+## VueJS Support Channels
+- [Vue's Discord Group](https://discord.com/invite/HBherRA)
+- [Community Forum](https://forum.vuejs.org/)
+
