@@ -16,4 +16,3 @@
 ## Odoo Support Channel
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/odoo)
 - Odoo Developers [Telegram](https://t.me/odoo_developers) Community
-- 
