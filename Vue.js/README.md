@@ -19,4 +19,5 @@ The guides will have every documentation needed to help you develop the screens 
 ## VueJS Support Channels
 - [Vue's Discord Group](https://discord.com/invite/HBherRA)
 - [Community Forum](https://forum.vuejs.org/)
-
+- [Dev.to Community](https://dev.to/t/vue)
+- [Meetups - Free Online Conference](https://events.vuejs.org/meetups/)
