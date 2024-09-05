@@ -15,3 +15,10 @@
 - [Expross for Javascript](https://github.com/mauro-balades/expross)
 - [log4j](https://crawshaw.io/blog/log4j)
 - [Superset Apache](https://superset.apache.org/)
+## Government Initiatives
+- [MiDA](https://www.mida.gov.my/mida-news/blueprint-to-help-malaysia-achieve-digital-economy-aspirations/)
+- [MyDIGITAL](https://www.mydigital.gov.my/)
+- [eRezeki](https://mdec.my/eRezeki)
+- [GLOW](https://mdec.my/glowmalaysia)
+- [Digital AgTech](https://mdec.my/digitalagtech)
+- [MD Workforce DTP](https://mdec.my/md-workforce/place-train)
